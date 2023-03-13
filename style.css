@@ -125,7 +125,5 @@ label {
     .card:hover .mem_content {
         height: 55vw;
     }
-    .label {
-        font-size: 120%;
-    }
+
 }
